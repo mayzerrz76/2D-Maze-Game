@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1608019362 source:c:\users\win10 vmw\documents\csc 222\labs and progs\ryanmay_finalproject\game.cpp
+	"Game.h"
+
+1608018369 c:\users\win10 vmw\documents\csc 222\labs and progs\ryanmay_finalproject\game.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1608021508 source:c:\users\win10 vmw\documents\csc 222\labs and progs\ryanmay_finalproject\main.cpp
+	"Game.h"
+
